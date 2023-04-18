@@ -1,6 +1,6 @@
 # python-timeseries_MSA
 
-Author: Heitor Uchoa
+Author: Heitor Uchoa (heitoruchoa@gmail.com)
 
 This repository contains code to perform all to all alignment of power traces in the format *.trs using Multiple sequence alignment techniques (MAFFT : https://mafft.cbrc.jp/alignment/software/).
 The *.trs libraries are available in Riscure Git repository (https://github.com/Riscure/python-trsfile)
